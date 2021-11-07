@@ -3,13 +3,13 @@
 I make minecraft mods and sometimes explain java things.
 
 ## Currently speaking 
-> Java
-> C++
-> Python
-> Some C#
-
+* Java
+* C++
+* C
+* Kotlin
+* Python
+* JavaScript/TypeScript
 
 ## Current mods
-
-> Llamarama: A mod that expands on llamas.
-> VoidMagic: A magic mod (WIP).
+- Llamarama: A mod that expands on llamas.
+- VoidMagic: A magic mod (WIP).
